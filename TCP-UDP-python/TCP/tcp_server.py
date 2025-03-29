@@ -12,3 +12,4 @@ while True:
      capitalizedSentence = sentence.upper()
      connectionSocket.send(capitalizedSentence.encode())
      connectionSocket.close()
+     
