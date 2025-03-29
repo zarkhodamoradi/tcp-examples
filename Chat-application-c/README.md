@@ -21,15 +21,15 @@ To compile the server and client, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/chat-application.git
+   git clone https://github.com/zarkhodamoradi/Networking/tree/ab600331829dd5509e19ea926814124564867bf7/Chat-application-c
    cd chat-application
    ```
 
 2. Compile the server and client programs:
 
    ```bash
-   gcc -o server server.c -pthread
-   gcc -o client client.c -pthread
+   gcc -o server server.c 
+   gcc -o client client.c 
    ```
 
 ## Running the Application
