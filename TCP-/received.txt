@@ -1,0 +1,12 @@
+Hello, this is a sample text file.
+It contains several lines and words.
+Let's count how many words there are in total.
+This text will be used to demonstrate the file transfer program.
+
+1. The quick brown fox jumped over the lazy dog.
+2. Hello, world!
+3. C programming is fun and challenging.
+4. TCP/IP is the backbone of network communication.
+5. File transfer is a common task in networking.
+
+Thank you for using this example!
