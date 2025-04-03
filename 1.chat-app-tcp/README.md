@@ -21,7 +21,7 @@ To compile the server and client, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/zarkhodamoradi/Networking.git
+   git clone https://github.com/zarkhodamoradi/tcp-examples.git
    cd chat-application-c
    ```
 
